@@ -1,2 +1,10 @@
-# nexus-core-vault
-Nexus Core Vault is a terminal-native encrypted vault system for secure logging and modular execution. Built as a subsystem for AEONCORE and the QuASI framework, it serves as an operational nerve center for "Nexus". Designed for long-term integration into "sentient-aligned" systems.
+# NEXUSTOOLS
+Custom linux based CLI tools for;
+Compressing, storing, encryting, and decrypting,
+custom stored logs and memory files. 
+
+Part of a MUCH bigger project currently being 
+designed and built by myself and CLASSIFIED.
+
+Keep watching....
+You won't want to miss whats coming next!
